@@ -1,1 +1,1 @@
-# patikacss
+# Patika CSS Ödevleri
